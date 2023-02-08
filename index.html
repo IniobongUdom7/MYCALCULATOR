@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--LINK CSS FILE HERE-->
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="">
+    
     <title>My Calculator</title>
 </head>
 <body>
     <div class="container">
         <div class="calculator">
-            <input type="text" id="inputext" placeholder="0">
+            <input type="text" id="displaytext" placeholder="0">
             <button onclick="clr()">C</button>
             <button onclick="del()">DEL</button>
             <button onclick="calculate('%')">%</button>
@@ -30,10 +32,10 @@
             <button onclick="calculate('+')">+</button>
             <button onclick="calculate('.')">.</button>
             <button onclick="calculate(0)">0</button>
-            <button class="equality" onclick="Result('')">=</button>
+            <button class="equalsTo" onclick="Output('')">=</button>
             
-
-            <script type="text/javascript" src="index.js"></script>
+            <!--LINK JAVASCRIPT FILES HERE-->
+            <script type="text/javascript" src="script.js"></script>
         </div>
     </div>
 </body>

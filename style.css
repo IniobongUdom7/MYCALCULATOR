@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-color: gainsboro;
+    background-color: #dcdcdc;
 }
 
 .container {
@@ -11,12 +11,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: gainsboro;
+    background-color: #2421AF;
 }
 
 .calculator {
-    box-shadow: 6px 6px 13px #fff,
-                6px 6px 13px #444;
+    /*box-shadow: 6px 6px 13px #fff,
+                6px 6px 13px #444;*/
     border-radius:  28px;
     padding: 20px;
     display: grid;
@@ -31,7 +31,7 @@ input {
     box-shadow: inset -6px -6px 13px #fff,
                 inset 6px 6px 13px rgba(0, 0, 0, .16);
 
-    background-color: gainsboro;
+    background-color: #dcdcdc;
     border: none;
     border-radius: 35px;
     color: gray;
@@ -45,7 +45,7 @@ input {
 button {
     box-shadow: inset 6px 6px 13px #fff,
                       6px 6px 13px rgba(0, 0, 0, .16);
-    background-color: gainsboro;
+    background-color: #dcdcdc;
     border: none;
     border-radius: 50%;
     width: 50px;
@@ -56,10 +56,10 @@ button {
     font-size: 20px;
 }
 
-.equality {
+.equalsTo {
     width: 120px;
     border-radius: 50px;
     box-shadow: inset 6px 6px 13px #fff,
                       6px 6px 13px rgba(0, 0, 0, .16);
-    background-color: gainsboro;
+    background-color: #dcdcdc;
 }
