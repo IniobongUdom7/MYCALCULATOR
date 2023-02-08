@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](https://github.com/IniobongUdom7/MYCALCULATOR/blob/master/newgif.gif)
 
 ### Links
 
