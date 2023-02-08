@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/IniobongUdom7/MYCALCULATOR]
-- Live Site URL: [https://iniobongudom.com]
+- Live Site URL: [https://iniobongudom7.github.io/MYCALCULATOR/]
 
 ## My process
 
